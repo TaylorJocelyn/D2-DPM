@@ -90,16 +90,20 @@ python quant_scripts/gaussian_modeling.py
 
 6. Sample using the quantized model and corrected sampler, selecting from the following corrected samplers based on the provided descriptions:
  - **DDIMSampler_gaussian_quantCorrection_imagenet:**
-    *Utilizes tensor-wise modeling and applies the S-D $^2$ denoising strategy.*
+   
+    *Utilizes tensor-wise modeling and applies the S-D<sup>2</sup> denoising strategy.*
 
  - **DDIMSampler_implicit_gaussian_quantCorrection_imagenet:**
-    *Utilizes tensor-wise modeling and applies the D-D $^2$ denoising strategy.*
+   
+    *Utilizes tensor-wise modeling and applies the D-D<sup>2</sup> denoising strategy.*
 
  - **DDIMSampler_channel_wise_explicit_gaussian_quantCorrection_imagenet:**
-    *Utilizes channel-wise modeling and applies the S-D $^2$ denoising strategy.*
+   
+    *Utilizes channel-wise modeling and applies the S-D<sup>2</sup> denoising strategy.*
 
  - **DDIMSampler_channel_wise_implicit_gaussian_quantCorrection_imagenet:**
-    *Utilizes channel-wise modeling and applies the D-D $^2$ denoising strategy.*
+   
+    *Utilizes channel-wise modeling and applies the D-D<sup>2</sup> denoising strategy.*
 
 <div style="padding-left: 20px;">
 <pre>
