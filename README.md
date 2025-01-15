@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/TaylorJocelyn/D2-DPM"><img src="https://img.shields.io/static/v1?label=ArXiv&message=2409.17920&color=B31B1B&logo=arxiv"></a>
+  <a href="https://arxiv.org/abs/2501.08180"><img src="https://img.shields.io/static/v1?label=ArXiv&message=2501.08180&color=B31B1B&logo=arxiv"></a>
 
 </div>
 
